@@ -26,9 +26,6 @@ A modern web application for reconciling Sales Order and Purchase Order files in
 ### Installation
 
 1. **Clone or download the project**
-   ```bash
-   cd Logistics9
-   ```
 
 2. **Install dependencies**
    ```bash
