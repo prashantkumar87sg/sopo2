@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import { CheckCircle, XCircle, AlertTriangle, Download, RotateCcw, Eye, EyeOff, Link, ArrowRight, Check, AlertCircle } from 'lucide-react';
-import { ReconciliationData, ManualMapping, BulkManualMapping, ReconciliationItem } from '../types';
+import { CheckCircle, XCircle, AlertTriangle, Download, RotateCcw, Eye, EyeOff, Link, ArrowRight, AlertCircle } from 'lucide-react';
+import { ReconciliationData, ManualMapping, ReconciliationItem } from '../types';
 import axios from 'axios';
 
 interface ReconciliationResultsProps {
